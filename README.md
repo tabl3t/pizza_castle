@@ -27,3 +27,6 @@ PIZZACASTLE is a full-stack, role-based food ordering system built with PHP and 
 3. Import the `pizza_castle_db.sql` file into your MySQL database.
 4. Update the `db.php` credentials if necessary.
 5. Navigate to `login.php` in your browser.
+
+##  Public URL
+https://pizzacastle.infinityfreeapp.com
